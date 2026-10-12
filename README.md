@@ -6,7 +6,9 @@ entre CarroCompra y Calculadora existe una dependencia ya que en la clase CarroC
 que instancia la clase Calculadora para ocupar el metodo multiplicar().
 
 Diagrama UML
+
 <img width="537" height="184" alt="DiagramaTareaDependencia" src="https://github.com/user-attachments/assets/5f26b22c-b166-47a4-852a-55e99f496582" />
 
 Programa ejecutado
+
 <img width="1299" height="706" alt="EjecucionTareaDependencia" src="https://github.com/user-attachments/assets/0523c006-95b1-457b-acf1-0bde78cd2861" />
